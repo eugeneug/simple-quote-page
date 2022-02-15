@@ -1,5 +1,5 @@
 body {
-    background-image: url("assets/freedom.jpg");
+    background-image: url(assets/freedom.jpg);
 }
 h1 {
     text-transform: uppercase;
